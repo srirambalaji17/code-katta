@@ -3,6 +3,6 @@ def main():
 
 number = int (input ('Enter number: '))
 if number % 2 == 0 and number != 0:
-        print ('Even number')
+        print ('Evenr')
 else:
-         print ('Odd number')
+         print ('Odd ')
