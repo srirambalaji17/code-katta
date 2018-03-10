@@ -14,6 +14,6 @@ def main():
 
 number = int (input ('Enter number: '))
 if number % 2 == 0 and number != 0:
-        print ('Even number')
+        print ('The number is Even number')
 else:
-         print ('Odd number')
+         print ('The number is Odd number')
