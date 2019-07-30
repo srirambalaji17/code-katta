@@ -1,4 +1,4 @@
-year = int(input("Please Enter the Year Number you wish: "))
+year = int(input("Please Enter the Year Number to find: "))
 
 if (( year%400 == 0)or (( year%4 == 0 ) and ( year%100 != 0))):
     print("%d is a Leap Year" %year)
