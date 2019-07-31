@@ -4,4 +4,4 @@ i = 1
 while i <= number:
     sum = sum + i
     i = i+1
-print("the sum of first",number,"natural number is",sum)
+print(sum)
